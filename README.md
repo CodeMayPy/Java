@@ -10,11 +10,11 @@ Repositório dedicado ao meu aprendizado de Java durante o 2º semestre de ADS. 
 ## 📂 Como executar os códigos
 Para rodar os arquivos .java, você precisa do JDK instalado.
 1. Compile o arquivo:
-   \`\`\`bash
+   \`\`\`
    javac HelloWorld.java
    \`\`\`
 2. Execute o programa:
-   \`\`\`bash
+   \`\`\`
    java HelloWorld
    \`\`\`
 
