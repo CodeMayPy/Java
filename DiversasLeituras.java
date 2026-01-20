@@ -31,5 +31,8 @@ public class DiversasLeituras{
         preco = Double.parseDouble(texto);
 
         System.out.println("Você digitou " +codigo+ " - " +nome+ " R$" +preco);
+
+
+        System.out.printf("Você digitou %d - %s R$ %.2f\n", codigo, nome, preco);
     }
 }      
