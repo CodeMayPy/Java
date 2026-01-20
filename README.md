@@ -1,6 +1,6 @@
 # ☕ Estudos de Java - CodeMayPy
 
-Repositório dedicado ao meu aprendizado de Java durante o 2º semestre de ADS. Aqui registro minha evolução na linguagem, focando em lógica, Programação Orientada a Objetos (POO) e boas práticas.
+Repositório dedicado ao meu aprendizado de Java durante o 2º semestre de ADS. Aqui registro minha evolução na linguagem, focando em lógica, Programação Orientada a Objetos (POO) e boas práticas. Exercícios da plataforma do Núclea Academy, com o professor Isidro Massetto.
 
 ## 🚀 O que estou estudando
 * **Sintaxe Básica:** Variáveis, tipos primitivos e operadores.
