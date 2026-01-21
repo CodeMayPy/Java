@@ -21,4 +21,4 @@ public class Exercicio01 {
 
         teclado.close();
     }
-}
+}clear
