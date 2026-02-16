@@ -6,7 +6,7 @@ public class Exercicio03{
         double salarioMinimo, valor1Kw, qtdKw, valorTotal, valorComDesconto;
 
         System.out.println("Digite o valor do Salário mínimo:");
-        salarioMinimo = teclado.nextDoublo();
+        salarioMinimo = teclado.nextDouble();
         System.out.println("Digite a quantidade de Kw gastos:");
         qtdKw = teclado.nextDouble();
         System.out.println("");
