@@ -17,6 +17,9 @@ public class Testeif{
         if (me >= 6) {
             System.out.println("Parabéns você está aprovado.");
         }
+        else{
+            System.out.println("Estude mais no próximo semestre");
+        }
 
 
 
